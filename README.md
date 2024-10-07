@@ -14,6 +14,7 @@ This project aims to develop a machine learning model using Ridge regression and
 1. Data Loading
 
 The project begins by loading the train.csv and test.csv datasets using pandas.read_csv(). These datasets contain the features needed for training and predicting the target variable 'Label'.
+
 2. Data Cleaning
 
 Several cleaning steps are performed to ensure the data is ready for modeling:
