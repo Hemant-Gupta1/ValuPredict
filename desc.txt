@@ -1,0 +1,5 @@
+Spearheaded an end-to-end data analysis and predictive modeling project using Python, achieving a significant accuracy improvement from 39.63% to 98.39% through advanced data preprocessing, feature engineering, and regression techniques.
+
+Developed a robust machine learning pipeline with PolynomialFeatures, StandardScaler, and Ridge regression, fine-tuned using GridSearchCV, which optimized model performance and delivered actionable insights from real-world datasets.
+
+Conducted comprehensive Exploratory Data Analysis (EDA) with Matplotlib and Seaborn, identifying key features, addressing multicollinearity, and significantly boosting model accuracy and prediction quality.
